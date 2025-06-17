@@ -1,3 +1,3 @@
 # Classic-Bookstore
-This is a template for a simple website.
+This is a template for a simple web page.
 
